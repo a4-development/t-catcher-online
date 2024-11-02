@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# Exclude Library folder
+[Ll]ibrary/* -text
